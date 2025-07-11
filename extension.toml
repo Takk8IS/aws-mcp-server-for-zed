@@ -1,0 +1,10 @@
+id = "mcp-server-aws"
+name = "AWS MCP Server"
+authors = ["David C Cavalcante <davcavalcante@proton.me>", "Takk™ Innovate Studio <say@takk.ag>"]
+version = "1.0.0"
+schema_version = 1
+description = "💾 Model Context Protocol (MCP) Server for AWS"
+repository = "https://github.com/Takk8IS/aws-mcp-server-for-zed"
+
+[context_servers.mcp-server-aws]
+name = "AWS MCP Server"
