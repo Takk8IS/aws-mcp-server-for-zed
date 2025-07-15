@@ -1,3 +1,4 @@
+*.wasm
 # Runtime & Dependencies
 ## Node.js & JavaScript
 logs/
